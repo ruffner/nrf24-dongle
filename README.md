@@ -1,6 +1,8 @@
 # nrf24-dongle
 AVR USB Interfaced NRF24L01+ Reveiver
 
+Built to funciton as a classroom clicker, compatible with similar NRF24 devices
+
 ##### What it functions as:
 * a programmable usb receiver for communicating with other NRF24L01/+, NRF24E1.
 

@@ -7,7 +7,7 @@ AVR USB Interfaced NRF24L01+ Reveiver
 
 ##### What it consists of:
 * AVR C running on Atmel ATTiny84.
-* In progress USB integration with the [VUSB] library.
+* In progress USB integration with the [VUSB] library in the vusb branch.
 
 
 ##### Fatures:
